@@ -11,8 +11,10 @@ class Calculator:
         return a * b
     
     def divide(self, a ,b):
+        if b == 0:
+            return "Division by zero not possible"
         return a / b
-    
+        
     def square_root(self, x):
         return math.sqrt(x)
 

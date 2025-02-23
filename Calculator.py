@@ -11,9 +11,11 @@ class Calculator:
         return a * b
     
     def divide(self, a ,b):
+        # Consider handling division by zero to avoid runtime errors
         return a / b
     
     def square_root(self, x):
+        # Consider handling negative input to avoid ValueError
         return math.sqrt(x)
 
 
@@ -29,3 +31,4 @@ if __name__ == "__main__":
 
     num3 = 25
     print(f"The square root of {num3} = {calculator.square_root(num3)}")
+

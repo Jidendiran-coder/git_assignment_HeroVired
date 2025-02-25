@@ -12,6 +12,8 @@ class Calculator:
     
     def divide(self, a ,b):
         # Consider handling division by zero to avoid runtime errors
+        if b == 0:
+            return "Error: Division by zero is not allowed."
         return a / b
         
     def square_root(self, x):

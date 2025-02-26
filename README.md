@@ -52,6 +52,7 @@ This repository contains multiple Git-based assignments aimed at strengthening G
        num3 = 25
        print(f"The square root of {num3} = {calculator.square_root(num3)}")
    ```
+![image](https://github.com/user-attachments/assets/b9d4aa5b-d4fa-441e-9cd0-02237c5753f3)
 
 3. **🔄 Merge `dev` into `main` and release `Version 1` of CalculatorPlus**
 4. **👥 Add a classmate as a collaborator**

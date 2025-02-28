@@ -52,22 +52,27 @@ This repository contains multiple Git-based assignments aimed at strengthening G
        num3 = 25
        print(f"The square root of {num3} = {calculator.square_root(num3)}")
    ```
+![image](https://github.com/user-attachments/assets/b9d4aa5b-d4fa-441e-9cd0-02237c5753f3)
+   - git push origin dev
+![image](https://github.com/user-attachments/assets/4724747e-5588-4e36-9218-41c00de17b5d)
 
 3. **🔄 Merge `dev` into `main` and release `Version 1` of CalculatorPlus**
-4. **👥 Add a classmate as a collaborator**
-5. **🌱 Create a `feature/sqrt` branch from `main`**
-6. **🐞 Fix a critical bug in `divide` function:**
+![image](https://github.com/user-attachments/assets/455a5920-3df5-4dcb-a298-49a09e6cc3f8)
+
+5. **👥 Add a classmate as a collaborator**
+6. **🌱 Create a `feature/sqrt` branch from `main`**
+7. **🐞 Fix a critical bug in `divide` function:**
    ```python
    def divide(self, a, b):
        if b == 0:
            raise ValueError("Cannot divide by zero.")
        return a / b
    ```
-7. **🔀 Merge bug fixes into `feature/sqrt` and keep it updated**
-8. **🔎 Request a code review from `feature/sqrt` into `dev` branch**
-9. **✅ After approval, merge `feature/sqrt` into `dev` and test**
-10. **📌 Commit with message `dev test has been done`, push to `dev`**
-11. **🚀 Merge `dev` into `main` and release `Version 2`**
+8. **🔀 Merge bug fixes into `feature/sqrt` and keep it updated**
+9. **🔎 Request a code review from `feature/sqrt` into `dev` branch**
+10. **✅ After approval, merge `feature/sqrt` into `dev` and test**
+11. **📌 Commit with message `dev test has been done`, push to `dev`**
+12. **🚀 Merge `dev` into `main` and release `Version 2`**
 
 ---
 

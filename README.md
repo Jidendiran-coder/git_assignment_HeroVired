@@ -90,23 +90,25 @@ This repository contains multiple Git-based assignments aimed at strengthening G
 2. **🌱 Create a new branch `lfs`**
    ```sh
    git checkout -b lfs
-   ```
-3. **📂 Track large binary files:**
+    ```
+4. **📂 Track large binary files:**
    ```sh
    git lfs track "*.mp4"
    ```
-4. **⬆️ Upload a large file (over 200MB) and push:**
+5. **⬆️ Upload a large file (over 200MB) and push:**
    ```sh
    git add .
-   git add big_file.mp4
    git commit -m "Added large file to Git LFS"
    git push origin lfs
    ```
-5. **📥 Clone repository on another machine and verify files:**
+![image](https://github.com/user-attachments/assets/3d7a9f5b-abb2-4355-b9ee-382853d28ffd)
+
+6. **📥 Clone repository on another machine and verify files:**
    ```sh
    git clone <repo_url>
    git lfs pull
    ```
+![image](https://github.com/user-attachments/assets/09b996e5-9408-4c6e-b7a7-6c8f8ea9951a)
 
 ---
 

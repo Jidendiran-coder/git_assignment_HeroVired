@@ -98,7 +98,6 @@ This repository contains multiple Git-based assignments aimed at strengthening G
 5. **⬆️ Upload a large file (over 200MB) and push:**
    ```sh
    git add .
-   git add big_file.mp4
    git commit -m "Added large file to Git LFS"
    git push origin lfs
    ```

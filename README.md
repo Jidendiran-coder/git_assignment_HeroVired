@@ -58,6 +58,7 @@ This repository contains multiple Git-based assignments aimed at strengthening G
 
 3. **🔄 Merge `dev` into `main` and release `Version 1` of CalculatorPlus**
 ![image](https://github.com/user-attachments/assets/455a5920-3df5-4dcb-a298-49a09e6cc3f8)
+![image](https://github.com/user-attachments/assets/a7f2a7cd-3987-475c-b73f-6e5cd39ef94f)
 
 5. **👥 Add a classmate as a collaborator**
 6. **🌱 Create a `feature/sqrt` branch from `main`**

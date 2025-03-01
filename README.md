@@ -172,7 +172,7 @@ This repository contains multiple Git-based assignments aimed at strengthening G
     ```
 11. **🔄 Create Pull Requests to `dev` Branch:**
 12. **🔍 Review and Merge After Approval:**
-13. **🚀 Merge Both Features into `main`**
+13. **🚀 Merge the Feature updated `dev` branch into `main`**
 
 ---
 
